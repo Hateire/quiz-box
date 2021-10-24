@@ -352,7 +352,7 @@ h1, h2, h3, h4, h5, h6 {
     vertical-align: top;
     width: 489px;
     height: 505px;
-    background: url(/img/ivent_aboutpng.png) center center / cover no-repeat;
+    background: url(img/ivent_aboutpng.png) center center / cover no-repeat;
 }
 
 .about__desc {
