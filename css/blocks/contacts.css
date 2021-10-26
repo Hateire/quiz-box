@@ -1,0 +1,50 @@
+.contacts {
+    position: absolute;
+    top: 14px;
+    right: 0px;
+    font-style: normal;
+    text-align: right;
+}
+
+.contacts__desc {
+    color: #9A9A9A;
+    font-size: 11px;
+    position: absolute;
+    right: 0;
+    font-style: normal;
+    text-align: right;
+
+}
+
+.contacts__phone {
+    text-decoration: none;
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+
+.contacts__number {
+    font-family: Open Sans;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: left;
+    top: 13px;
+}
+
+.contacts__workhours {
+    font-size: 13px;
+    text-decoration: underline;
+    line-height: 20px;
+    position: absolute;
+    top: 30px;
+    right: 2px;
+    font-style: normal;
+    text-align: right;
+}
+
+
+.adress {
+    font-style: normal;
+}
