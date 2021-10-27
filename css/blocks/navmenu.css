@@ -1,0 +1,32 @@
+.navmenu {
+    position: absolute;
+    top: 18px;
+    left: 163px;
+}
+
+.navmenu__list {
+    margin-left: 258px;
+    margin-top: 3px;
+    
+}
+
+.navmenu__item {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 60px;
+}
+
+.navmenu__link {
+    font-size: 16px;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-left: 1px;
+}
+
+.navmenu__link:hover {
+    color: #8F00FF;
+}
+
+.navmenu-footer {
+    margin-left: 63px;
+}

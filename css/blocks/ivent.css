@@ -1,0 +1,19 @@
+.ivent {
+    width: 637px;
+    margin-bottom: 191px;
+    text-align: left;
+}
+
+.ivent__title {
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 64px;
+    margin-bottom: 23px;
+}
+
+.ivent__subtitle {
+    position: relative;
+    font-size: 21px;
+    margin-bottom: 73px;
+}
