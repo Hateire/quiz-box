@@ -1,0 +1,22 @@
+.container {
+    margin: 0 auto;
+    width: 1140px;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    padding-top: 26px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__col {
+    display: flex;
+    align-items: center;
+}
+
+.header__col--align--right {
+    justify-content: flex-end;
+}

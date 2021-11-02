@@ -1,0 +1,27 @@
+.navmenu {
+    display: flex;
+}
+
+.navmenu__list {
+    margin-left: 258px;
+    display: flex;
+}
+
+.navmenu__item {
+    margin-right: 60px;
+}
+
+.navmenu__link {
+    font-size: 16px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.navmenu__link:hover {
+    color: #8F00FF;
+}
+
+.navmenu-footer {
+    margin-left: 69px;
+    padding-bottom: 5px;
+}
