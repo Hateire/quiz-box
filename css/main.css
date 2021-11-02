@@ -19,7 +19,7 @@
     object-fit: cover;
     background-color:#17191C;
     min-height: 412px;
-    background: url(../../img/ivent-background1.png) center;
+    background: url(../img/ivent-background1.png) center;
     display: flex;
     flex-direction: column;
     padding-bottom: 20px;
