@@ -1,0 +1,20 @@
+.header {
+    padding-top: 26px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__col {
+    display: flex;
+    align-items: center;
+}
+
+.header__col--align--right {
+    justify-content: flex-end;
+}
+
+.header__navmenu {
+    margin-left: 263px;
+    padding-bottom: 10px;
+}
