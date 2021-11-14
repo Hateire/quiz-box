@@ -1,0 +1,38 @@
+.contacts {
+    font-style: normal;
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+}
+
+.contacts__desc {
+    color: #9A9A9A;
+    font-size: 11px;
+    line-height: 1;
+}
+
+.contacts__phone {
+    text-decoration: none;
+    font-size: 26px;
+    font-weight: 400;
+    height: 29px;
+}
+
+.contacts__number {
+    font-family: Open Sans;
+    font-style: normal;
+}
+
+.contacts__workhours {
+    font-size: 13px;
+    text-decoration: underline;
+    line-height: 20px;
+    font-style: normal;
+    text-align: right;
+    color: #98A4A8;
+}
+
+
+.address {
+    font-style: normal;
+}
