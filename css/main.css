@@ -1,0 +1,23 @@
+@import url('./layout/normalize.css');
+@import url('./layout/base.css');
+@import url('./blocks/header.css');
+@import url('./blocks/logo.css');
+@import url('./blocks/navmenu.css');
+@import url('./blocks/contacts.css');
+@import url('./blocks/ivent.css');
+@import url('./blocks/newgames.css');
+@import url('./blocks/lastgames.css');
+@import url('./blocks/paginator.css');
+@import url('./blocks/about.css');
+@import url('./blocks/footer.css');
+@import url('./blocks/socials.css');
+@import url('./blocks/inner.css');
+@import url('./blocks/partners.css');
+@import url('./blocks/services.css');
+@import url('./blocks/breadcrumbs.css');
+@import url('./blocks/dropdown.css');
+@import url('./blocks/rewiews.css');
+@import url('./blocks/separator.css');
+@import url('./blocks/form.css');
+@import url('./blocks/welcome.css');
+

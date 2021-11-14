@@ -1,0 +1,19 @@
+.separator {
+    background: #17191C url(../../img/rewiew-separator.png) right 13.3% bottom no-repeat;
+    min-height: 339px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.separator__content {
+    min-width: 50%;
+}
+
+.separator__title {
+    font-size: 48px;
+    font-weight: bold;
+    line-height: 1.1;
+    height: 130px;
+    width: 383px;
+}

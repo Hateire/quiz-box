@@ -1,0 +1,30 @@
+.partners {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 66px;
+}
+
+.partners__item {
+    width: 240px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 27px;
+}
+
+.partners__item:nth-child(4n+4) {
+    margin-left: auto;
+}
+
+li.partners__item:nth-child(4n+1) {
+    margin-left: 0;
+    justify-content: flex-start;
+}
+
+.partners__link {
+    filter: grayscale(100%);
+}
+
+.partners__link:hover {
+    filter: grayscale(0);
+}
