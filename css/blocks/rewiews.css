@@ -56,6 +56,7 @@
     padding: 8px 16px;
     border-radius: 50px;
     background: #E7E7E7;
+    transition: color 3s;
 }
 
 .tag--bg--green {
